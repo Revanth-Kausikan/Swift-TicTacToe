@@ -90,7 +90,7 @@
  	
  	let playerInstance = TicTacToe()           //Creating instance
  	
-	print (""" 								
+	print ("""
 
 
  	-----------Welcome to TicTacToe-----------
